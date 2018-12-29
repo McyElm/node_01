@@ -1,0 +1,17 @@
+{
+  "name": "node_01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  }
+}
